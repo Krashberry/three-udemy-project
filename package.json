@@ -1,0 +1,22 @@
+{
+  "name": "three-udemy-project",
+  "version": "1.0.0",
+  "description": "three.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krashberry/three-udemy-project.git"
+  },
+  "author": "Kiraah Grandberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krashberry/three-udemy-project/issues"
+  },
+  "homepage": "https://github.com/Krashberry/three-udemy-project#readme",
+  "dependencies": {
+    "three": "^0.120.1"
+  }
+}
